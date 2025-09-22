@@ -1,0 +1,17 @@
+const x = 2, y = 3;
+var a, b, c;
+begin
+a := 1;
+b := 1;
+c := 3;
+
+/* Assign c = 5 */
+if a = b then c := (a + b) * c fi;
+
+/* Loop a = 1 -> 4 */
+while a < c do a := a + 1;
+
+read a;
+write a; 
+
+end.

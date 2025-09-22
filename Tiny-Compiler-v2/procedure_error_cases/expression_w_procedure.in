@@ -1,0 +1,10 @@
+var x, y;
+procedure a;
+	var x;
+	begin
+	x:=1;	
+	end;
+begin	
+  x := a + 56
+end.
+

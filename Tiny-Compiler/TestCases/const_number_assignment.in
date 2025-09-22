@@ -1,0 +1,5 @@
+const x = v;
+var x, y;
+begin
+x := x + y;
+end.

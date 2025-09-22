@@ -1,0 +1,4 @@
+var x, y;
+/* The rest of this program is not important. */
+x := x + y;
+/* Comment to end of file test. */

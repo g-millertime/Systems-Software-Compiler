@@ -1,0 +1,14 @@
+const
+var
+procedure
+call
+begin
+end
+if
+fi
+then
+else
+while
+do
+read
+write

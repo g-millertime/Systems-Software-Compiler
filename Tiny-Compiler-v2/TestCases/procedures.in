@@ -1,0 +1,25 @@
+var x,y,z;
+procedure A;
+	var x,y;
+	procedure B;
+		var x,y;
+		begin
+			x := 1;
+			y := 2;
+		end;
+	begin
+		x := 3;
+		y := 4;
+	end;
+procedure C;
+	var x,y;
+	begin
+		x := 5;
+		y := 6;
+	end;
+begin
+	x := 7;
+	y := 8;
+	z := 9;
+end.
+

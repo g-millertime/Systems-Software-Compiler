@@ -1,0 +1,14 @@
+const x = 1;
+var a, b, c;
+begin
+a := 1;
+b := 1;
+c := 3;
+
+/* Assign c = 5 */
+if a = b then c := (a + b) * c ;
+
+/* Loop a = 1 -> 4 */
+while a < c do a := a + 1 
+
+end.
